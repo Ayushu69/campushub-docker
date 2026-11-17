@@ -17,3 +17,4 @@ The application code in `app/` is complete and works. Do not change it. Your job
 
 Gateway routes: `/` to frontend, `/api/` to api, `/storage/` to `minio:9000/campushub/`.
 Environment variable names are in `.env.example`. Copy it to `.env` and keep `.env` out of git.
+Docker setup added
